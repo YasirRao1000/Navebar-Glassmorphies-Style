@@ -1,0 +1,30 @@
+
+
+ul li{
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	border: 2px solid white;
+	color: white;
+	padding: 5px 20px 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+	box-shadow: rgba(0, 0, 0, 1.0) 10px 10px 10px;
+	transition: 0.5s ease;
+
+}
+
+
+
+ul li:hover {
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	border: 2px solid white;
+	color: white;
+	padding: 5px 20px 5px 20px;
+	margin: 7px;
+	border-radius: 20px;
+	box-shadow: rgba(0, 0, 0, 1.0) 10px 10px 10px;
+	transition: 0.3s ease;
+}
